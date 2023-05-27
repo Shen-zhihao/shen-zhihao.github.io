@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'webStudy', // The title of the website
+  title: 'wenStudy', // The title of the website
   tagline: 'show me your code', // A word on the front page
-  url: 'https://webStudy/', // Your website URL
+  url: 'https://shen-zhihao.github.io/', // Your website URL
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,10 +16,11 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Shen-zhihao', // Usually your GitHub org/user name.
-  projectName: 'webStudy', // Usually your repo name.
+  organizationName: 'shen-zhihao', // Usually your GitHub org/user name.
+  projectName: 'shen-zhihao.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
+
 
   i18n: {
     defaultLocale: 'zh-CN',
